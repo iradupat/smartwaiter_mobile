@@ -1,1 +1,1 @@
-# smartwaiter_mobile
+# Smartwaiter Mobile
